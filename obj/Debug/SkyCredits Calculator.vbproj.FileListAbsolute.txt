@@ -12,3 +12,20 @@ C:\Users\r33int\Documents\GitHub\skycalc\SkyCredits Calculator\SkyCredits Calcul
 C:\Users\r33int\Documents\GitHub\skycalc\SkyCredits Calculator\SkyCredits Calculator\bin\Debug\en-US\SkyCredits Calculator.resources.dll
 C:\Users\r33int\Documents\GitHub\skycalc\SkyCredits Calculator\SkyCredits Calculator\obj\Debug\SkyCredits_Calculator.Setup.en-US.resources
 C:\Users\r33int\Documents\GitHub\skycalc\SkyCredits Calculator\SkyCredits Calculator\obj\Debug\en-US\SkyCredits Calculator.resources.dll
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\bin\Debug\SkyCredits Calculator.exe.config
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\bin\Debug\SkyCredits Calculator.exe
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\bin\Debug\SkyCredits Calculator.pdb
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\bin\Debug\SkyCredits Calculator.xml
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\bin\Debug\en-US\SkyCredits Calculator.resources.dll
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits_Calculator.App.resources
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits_Calculator.Dialog1.resources
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits_Calculator.Setup.resources
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits_Calculator.Resources.resources
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits_Calculator.Setup.en-US.resources
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits Calculator.vbproj.GenerateResource.Cache
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\en-US\SkyCredits Calculator.resources.dll
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits Calculator.exe
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits Calculator.xml
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits Calculator.pdb
+C:\Users\r33int\Documents\GitHub\SkyCredits-Calculator\obj\Debug\SkyCredits_Calculator.Record.resources
